@@ -1,3 +1,1 @@
-this is written after 1st time
-file is going to be reposited
-lets practice more and more
+content is written after first commit
